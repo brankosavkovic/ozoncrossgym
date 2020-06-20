@@ -69,10 +69,10 @@ session_start();
                         <a class="nav-link" href="login.php">login/Register</a>
                     </li>
                     <?php endif ?>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <img id="ser" src="Img/ser.png" alt="SER">
                         <img id="uk" src="Img/uk.png" alt="ENG">
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
