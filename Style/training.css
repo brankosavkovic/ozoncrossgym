@@ -11,6 +11,11 @@
     color: green;
 }
 
+.copyrights {
+    font-family: 'mojFont';
+    font-size: 10px;
+}
+
 img{
     width: 100%;
 }

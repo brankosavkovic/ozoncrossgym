@@ -68,17 +68,17 @@ session_start();
                             <a class="nav-link" href="login.php">login/Register</a>
                         </li>
                     <?php endif ?>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <img id="ser" src="Img/ser.png" alt="SER">
                         <img id="uk" src="Img/uk.png" alt="ENG">
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
     </nav>
 
     <div id="mainDivH">
-        <form action="" method="post">
+        <!-- <form action="" method="post">
             <button name="baza_btn" class="btn btn-success mt-5 ml-5" type="submit">KREIRAJ BAZU</button>
         </form>
         <form action="" method="post">
@@ -86,7 +86,7 @@ session_start();
         </form>
         <form action="" method="post">
             <button name="unos_btn" class="btn btn-secondary mt-2 ml-5" type="submit">KREIRAJ UNOSE</button>
-        </form>
+        </form> -->
 
 
         <?php
@@ -168,7 +168,7 @@ PRIMARY KEY (id) )";
     <script>
         $(document).ready(() => {
 
-            var text = "WELLCOME TO OZON CROSS GYM";
+            var text = "WELCOME TO OZON CROSSGYM";
             var delay = 100;
             var naslov = $("#naslov");
 
@@ -203,7 +203,7 @@ PRIMARY KEY (id) )";
     </script>
 
     <div id="footer" class="bg-dark">
-        <h2>REKLAME</h2>
+        <h2 id="copyrights">COPYRIGHTS by BRANKO</h2>
     </div>
 
 

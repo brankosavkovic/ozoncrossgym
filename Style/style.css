@@ -36,6 +36,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#copyrights {
+    font-family: 'mojFont';
+    font-size: 10px;
+}
+
 h2 {
     line-height: 78px;
 }
