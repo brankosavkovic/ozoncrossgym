@@ -91,17 +91,17 @@ session_start();
                         <a class="nav-link" href="login.php">login/Register</a>
                     </li>
                     <?php endif ?>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <img id="ser" src="Img/ser.png" alt="SER">
                         <img id="uk" src="Img/uk.png" alt="ENG">
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
     </nav>
    
 
-   <div id="prvi">
+   <!-- <div id="prvi">
         <form class="container" id='formular' action='mail.php' method='POST'>
             <h3 class="mt-3">UKOLIKO IMATE NEKIH PITANJA MOZETE NAS KONTAKTIRATI </h3>
             <div class="form-group row mt-3">
@@ -129,33 +129,35 @@ session_start();
                 <button type="submit" id="posalji" class="btn btn-success" name='btnPosalji'>POSALJI</button>
             </div>                        
         </form>    
+     </div> -->
+
+     
+    <div id='drugi'>
+        <div class="form-group row mt-0 mb-0 ml-3">
+            <div class="col-sm-6 col-md-3 kontakt">
+                <p>Adresa:<br>
+                <span>Ševina 15, Zemun</span></p>
+            </div>
+            <div class="col-sm-6 col-md-3 kontakt">
+                <p>Kontakt telefon:<br>
+                <span>060 50 71 313</span></p>
+            </div>
+            <div class="col-sm-6 col-md-3 kontakt">
+                <p>E-mail:<br>
+                <span>ozoncrossgym@gmail.com</span></p>
+            </div>
+            <div class="col-sm-6 col-md-3 kontakt">
+                <p>Radno vreme:<br>
+                <span>radni dan: od 7:00-22:00<br>
+                    vikend: od 10:00-20:00</span></p>
+                </div>
+            </div>
      </div>
 
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2829.063179579135!2d20.375789715362902!3d44.84064668285368!
                   2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a65c2f53eef55%3A0x9ce8fff28c8f4238!2z0KjQtdCy0LjQvdCwIDE1LCD
                   QkdC10L7Qs9GA0LDQtCAxMTA4MA!5e0!3m2!1ssr!2srs!4v1568462772329!5m2!1ssr!2srs" width="100%" height="450" frameborder="0"
              style="border:0;" allowfullscreen=""></iframe>
-    <div id='drugi'>
-        <div class="form-group row mt-0 mb-0 ml-3">
-            <div class="col-sm-6 col-md-3 kontakt">
-                <p>Adresa:<br>
-                <span>Kneza Višeslava 120, Beograd</span></p>
-            </div>
-            <div class="col-sm-6 col-md-3 kontakt">
-                <p>Kontakt telefon:<br>
-                <span>069 55 84 857</span></p>
-            </div>
-            <div class="col-sm-6 col-md-3 kontakt">
-                <p>E-mail:<br>
-                <span>alexsd@yahoo.com</span></p>
-            </div>
-            <div class="col-sm-6 col-md-3 kontakt">
-                <p>Radno vreme:<br>
-                <span>radni dan: od 7:00-22:30<br>
-                    vikend: od 08:00-18:00</span></p>
-                </div>
-            </div>
-     </div>
 
      <script>
 	    $(window).load(function() {
