@@ -22,7 +22,7 @@ $mail->Username = "aleksandrastamenkovic1004@gmail.com";
 $mail->Password = file_get_contents($admin);
 //Set who the message is to be sent from
 $mail->setFrom($email,$ime);
-$mail->addAddress('aleksandrastamenkovic1004@gmail.com','Alex');
+$mail->addAddress('brainacc@gmail.com','Alex');
 
 
 $mail->Subject = $naslov;
