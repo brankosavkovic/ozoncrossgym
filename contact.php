@@ -168,7 +168,7 @@ session_start();
 
 
     <div id="footer" class="bg-dark">
-        <span id="footer">Copyright 2020. All rights reserved</span>
+        <p>Copyright 2020. All rights reserved</p>
     </div>
 
 </body>
