@@ -66,9 +66,9 @@ session_start();
                     <li class="nav-item dropdown">
                         <a class="nav-link" href="training.php">cross gym training</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="cross_sport_kids.php">cross sport kids</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">about us</a>
                     </li>
@@ -78,7 +78,7 @@ session_start();
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">contact us</a>
                     </li>
-                    <?php if(isset($_SESSION['id'])):  ?>
+                    <!-- <?php if(isset($_SESSION['id'])):  ?>
                     <li class="nav-item">
                         <a class="nav-link" href="profile.php">profile</a>
                     </li>
@@ -89,7 +89,7 @@ session_start();
                     <li class="nav-item">
                         <a class="nav-link" href="login.php">login/Register</a>
                     </li>
-                    <?php endif ?>
+                    <?php endif ?> -->
                     <!-- <li class="nav-item">
                         <img id="ser" src="Img/ser.png" alt="SER">
                         <img id="uk" src="Img/uk.png" alt="ENG">

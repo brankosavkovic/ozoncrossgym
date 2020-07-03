@@ -53,9 +53,12 @@ session_start();
 <body>
 <div class="se-pre-con"></div>
 
-    <nav id="navBar" class="navbar text-uppercase navbar-expand-lg navbar-dark bg-dark sticky-top">
+<nav id="navBar" class="navbar text-uppercase navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
+
             <a class="navbar-brand text-success font-weight-bolder" href="index.php"><img id="logo" src="Img/logo.png" alt=""> ozon cross gym </a>
+
+
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -74,7 +77,7 @@ session_start();
                         <a class="nav-link" href="about.php">about us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="gallery.php" active>gallery</a>
+                        <a class="nav-link" href="gallery.php" active>gallery</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-success" href="contact.php">contact us</a>
@@ -99,9 +102,10 @@ session_start();
             </div>
         </div>
     </nav>
-   
 
-   <!-- <div id="prvi">
+   
+<!--
+    <div id="prvi">
         <form class="container" id='formular' action='mail.php' method='POST'>
             <h3 class="mt-3">UKOLIKO IMATE NEKIH PITANJA MOZETE NAS KONTAKTIRATI </h3>
             <div class="form-group row mt-3">
