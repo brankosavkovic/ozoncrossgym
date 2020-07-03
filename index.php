@@ -30,7 +30,7 @@ session_start();
     <nav id="navBar" class="navbar text-uppercase navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
 
-            <a class="navbar-brand text-success font-weight-bolder" href="index.php"><img id="logo" src="Img/logo.png" alt=""> ozon cross gym </a>
+            <a class="navbar-brand text-success font-weight-bolder" href="index.php"><img id="logo" src="Img/logo.png" alt=""> ozon crossgym </a>
 
 
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive">
@@ -42,7 +42,7 @@ session_start();
                         <a class="nav-link text-success" href="index.php">Home</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="training.php">cross gym training</a>
+                        <a class="nav-link" href="training.php">crossgym training</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="cross_sport_kids.php">cross sport kids</a>
@@ -168,7 +168,7 @@ PRIMARY KEY (id) )";
     <script>
         $(document).ready(() => {
 
-            var text = "WELCOME TO OZON CROSSGYM";
+            var text = "WELCOME TO OZONCROSSGYM";
             var delay = 100;
             var naslov = $("#naslov");
 
