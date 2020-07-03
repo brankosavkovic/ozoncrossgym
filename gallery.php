@@ -120,7 +120,7 @@ session_start();
             <div class="row">
 
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica7" src="Gallery/7.jpg" alt="">
-                <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica8" src="Gallery/8jpg" alt="">
+                <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica8" src="Gallery/8.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica9" src="Gallery/9.jpg" alt="">
                 <!-- <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica12" src="Gallery/12.jpg" alt=""> -->
             </div>
