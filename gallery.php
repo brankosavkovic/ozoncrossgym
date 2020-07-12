@@ -108,29 +108,21 @@ session_start();
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica1" src="Gallery/1.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica2" src="Gallery/2.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica3" src="Gallery/3.jpg" alt="">
-                <!-- <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica4" src="Gallery/4.jpg" alt=""> -->
             </div>
             <div class="row">
 
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica4" src="Gallery/4.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica5" src="Gallery/5.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica6" src="Gallery/6.jpg" alt="">
-                <!-- <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica8" src="Gallery/8.jpg" alt=""> -->
             </div>
             <div class="row">
 
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica7" src="Gallery/7.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica8" src="Gallery/8.jpg" alt="">
                 <img class="img-fluid col-md-4 mt-3 mb-3 gallery" id="slicica9" src="Gallery/9.jpg" alt="">
-                <!-- <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica12" src="Gallery/12.jpg" alt=""> -->
             </div>
 
-            <!-- <div class="row">
-                <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica13" src="Gallery/13.jpg" alt="">
-                <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica14" src="Gallery/14.jpg" alt="">
-                <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica15" src="Gallery/15.jpg" alt="">
-                <img class="img-fluid col-md-3 mt-3 mb-3 gallery" id="slicica16" src="Gallery/16.jpg" alt="">
-            </div> -->
+         
         <script>
             $(window).load(function() {
                 // Animate loader off screen
