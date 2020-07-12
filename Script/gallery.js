@@ -8,8 +8,8 @@ $(document).ready(() => {
     let right = $('<span id="right">><span>');
 
     
-
-    let duzina = $('.gallery').length;
+    let duzina = 9;
+    // let duzina = $('.gallery').length;
 
     function goLeft(i) {
         if (!activeImage) activeImage = i
