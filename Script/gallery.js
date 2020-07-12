@@ -17,14 +17,14 @@ $(document).ready(() => {
             activeImage--
             image.attr('src', `Gallery/${activeImage}.jpg`);
         } else {
-            activeImage = 16
+            activeImage = 9
             image.attr('src', `Gallery/${activeImage}.jpg`);
         }
     }
 
     function goRight(i) {
         if (!activeImage) activeImage = i
-        if (activeImage < 16) {
+        if (activeImage < 9) {
             activeImage++
             image.attr('src', `Gallery/${activeImage}.jpg`);
         } else {
