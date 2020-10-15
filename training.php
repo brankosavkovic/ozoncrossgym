@@ -123,7 +123,7 @@ session_start();
                 <a id="saznajViseCrossBox" class="saznajVise" href="#">Saznaj više o programu</a>
             </div>
 
-            <div id="drugiDesno" class="col-sm-12 col-md-5 box">
+            <!-- <div id="drugiDesno" class="col-sm-12 col-md-5 box">
                 <h3>Zumba</h3>
                 <img src="Img/zumba.jpg" alt="">
                 <p><span style="font-weight: bold;">Zumba</span>
@@ -133,8 +133,8 @@ session_start();
 
                 </p>
                 <a id="saznajViseZumba" class="saznajVise" href="#">Saznaj više o programu</a>
-            </div>
-            <div id="treciLevo" class="col-sm-12 col-md-5 box">
+            </div> -->
+            <!-- <div id="treciLevo" class="col-sm-12 col-md-5 box">
                 <h3>Pilates</h3>
                 <img src="Img/pilates.jpg" alt="">
                 <p><span style="font-weight: bold;">Pilates</span>
@@ -144,8 +144,8 @@ session_start();
 
                 </p>
                 <a id="saznajVisePilates" class="saznajVise" href="#" >Saznaj više o programu</a>
-            </div>
-            <div id="treciDesno" class="col-sm-12 col-md-5 box">
+            </div> -->
+            <div id="drugiDesno" class="col-sm-12 col-md-5 box">
                 <h3>Yoga</h3>
                 <img src="Img/yoga.jpg" alt="">
                 <p><span style="font-weight: bold;">Hatha yoga</span>
