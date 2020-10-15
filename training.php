@@ -332,7 +332,7 @@ session_start();
             <!-- YOGA -->
 
 
-        <!-- <div class="container" id="kontejnerYoga">
+        <div class="container" id="kontejnerYoga">
                 <div style="text-align:left" id="slikaYoga" class="col-sm-12 col-md-4 box">
                     <img src="Img/yoga1.jpg" alt="">
                     <p>
@@ -384,7 +384,7 @@ session_start();
                         <h3><---- PROGRAMI</h3> 
                     </a>
                 </div>
-        </div> -->
+        </div>
 
         <!-- crossBox -->
 
