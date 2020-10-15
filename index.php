@@ -203,7 +203,7 @@ PRIMARY KEY (id) )";
     </script>
 
     <div id="footer" class="bg-dark">
-        <h2 id="copyrights">COPYRIGHTS by BRANKO</h2>
+         <p>Copyright 2020. All rights reserved</p>
     </div>
 
 

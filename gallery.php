@@ -139,13 +139,9 @@ session_start();
 
     </div>
 
-
-
-
-
-
-
-
+    <div id="footer" class="bg-dark">
+            <p>Copyright 2020. All rights reserved</p>
+    </div>
 
 </body>
 

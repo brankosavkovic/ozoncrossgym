@@ -605,7 +605,7 @@ session_start();
         <!-- foooter -->
 
         <div id="footer" class="bg-dark">
-            <h2>Reklame</h2>
+            <p>Copyright 2020. All rights reserved</p>
         </div>
 </body>
 
